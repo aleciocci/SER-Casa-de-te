@@ -110,8 +110,8 @@ export const Reservations: React.FC = () => {
               <div className="flex items-start gap-4">
                 <div className="p-3 bg-tea-gold/20 rounded-full shrink-0"><CheckCircle className="w-5 h-5 text-tea-gold" /></div>
                 <div>
-                  <h4 className="font-serif text-xl font-bold mb-1">3. Confirmación</h4>
-                  <p className="text-sm text-tea-cream/60">Reciba confirmación instantánea por WhatsApp o Email.</p>
+                  <h4 className="font-serif text-xl font-bold mb-1">3. Confirmación y Ubicación</h4>
+                  <p className="text-sm text-tea-cream/60">Reciba la confirmación y nuestra dirección secreta por WhatsApp.</p>
                 </div>
               </div>
             </div>

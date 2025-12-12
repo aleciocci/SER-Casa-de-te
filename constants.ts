@@ -112,6 +112,6 @@ export const GALLERY_IMAGES: GalleryImage[] = [
   { id: 2, src: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=800&q=80", alt: "Sirviendo Té", size: "wide" },
   { id: 3, src: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?auto=format&fit=crop&w=400&q=80", alt: "Macaroons", size: "small" },
   { id: 4, src: "https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=400&q=80", alt: "Juego de Té", size: "small" },
-  { id: 5, src: "https://images.unsplash.com/photo-1563114773-88405e36506d?auto=format&fit=crop&w=600&q=80", alt: "Rebanada de Pastel", size: "tall" },
+  { id: 5, src: "https://images.unsplash.com/photo-1588195538326-c5f1f23fa431?auto=format&fit=crop&w=600&q=80", alt: "Rebanada de Pastel", size: "tall" },
   { id: 6, src: "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7?auto=format&fit=crop&w=800&q=80", alt: "Amigos", size: "wide" },
 ];
